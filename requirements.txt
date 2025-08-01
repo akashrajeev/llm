@@ -5,3 +5,4 @@ cohere==4.45
 faiss-cpu==1.7.4
 requests==2.32.4
 python-multipart==0.0.7  
+#work or not
